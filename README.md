@@ -1,5 +1,22 @@
 # Kekode Python Snippets
 
+```python
+# defining a variable
+my_variable = 123
+
+# getting a user's input
+user_input = input('Question to ask user')
+
+# random choice from a list
+random_choice = random.choice([1,2,3])
+
+# branching your logic
+result = 0
+if result > 1:
+  result = result - 1
+print result
+```
+
 ## Data Types
 Integer = Whole number
 ```python
