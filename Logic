@@ -1,0 +1,5 @@
+## Logic
+A sequence of instructions given to the computer, to follow.
+```python
+answer = 1 + 1
+```
